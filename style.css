@@ -1,0 +1,78 @@
+.d-flex {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .font-size{
+    font-size: 24px;
+  }
+  .nav-line{
+    border-bottom: 1px solid rgb(179, 178, 175);
+  }
+ .col a{
+    color: gray;
+    font-size: 13px;
+ }
+ .col-12 h1{
+    font-family: "Roboto Mono", serif;
+    font-weight: 800;
+ }
+ .col-12 p{
+    color: rgb(185, 188, 192);
+ }
+ .col-12 a{
+    font-weight: 600;
+    font-size: 20px;
+ }
+ .world{
+    color: blue;
+    font-weight: 700;
+ }
+ .design{
+    color: green;
+    font-weight: 700;
+ }
+ .row .col-4 h1{
+    font-family: "Roboto Mono", serif;
+    font-weight: 700;
+ }
+ .row .col-4 p{
+    margin: 0;
+    font-size: 14px;
+ }
+ .left-container .col-4{
+    position: sticky;
+    top: 0;
+ }
+ .one{
+    font-family: "Roboto Mono", serif;
+    font-weight: 700;
+    
+ }
+ .two{
+    font-family: "Roboto Mono", serif;
+    font-weight: 700;
+ }.three{
+    color: gray;
+    font-size: 13px;
+    margin: 0;
+    margin-bottom: 10px;
+ }
+ .four{
+    margin-top: 10px;
+ }
+.six{
+    font-family: "Roboto Mono", serif;
+    font-weight: 500;
+}
+ .left-container p{
+    font-size: 14px;
+ }
+ .container-fluid{
+    background-color: rgb(233, 237, 237);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
